@@ -10,9 +10,9 @@ import flask
 # In a proper Flask application all these templates should be in indepent files
 STYLE = """
 body {
-  background-color: beige;
-  font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
-  font-size: 14px;
+  background-color: hotpink;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 15px;
   padding: 10%;
 }
 img {
